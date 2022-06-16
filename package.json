@@ -1,0 +1,11 @@
+{
+  "name": "yasp-test",
+  "scripts": {
+
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "screenshot-desktop": "^1.12.7"
+  }
+}
